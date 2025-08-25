@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/WebBioAndly/static/css/main.31d6cfe0.css",
+    "main.js": "/WebBioAndly/static/js/main.13020861.js",
+    "static/js/453.9b9ff51d.chunk.js": "/WebBioAndly/static/js/453.9b9ff51d.chunk.js",
+    "index.html": "/WebBioAndly/index.html",
+    "main.13020861.js.map": "/WebBioAndly/static/js/main.13020861.js.map",
+    "453.9b9ff51d.chunk.js.map": "/WebBioAndly/static/js/453.9b9ff51d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.13020861.js"
+  ]
+}
